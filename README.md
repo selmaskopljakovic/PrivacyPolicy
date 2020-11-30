@@ -1,5 +1,3 @@
-# PrivacyPolicy
-
 # Privacy Policy
 Evomecs GmbH built the LinkApp by Evomecs app as a Commercial app. This SERVICE is provided by Evomecs GmbH and is intended for use as is.
 
